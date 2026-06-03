@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/%7Brepository-name%7D/static/css/main.0fc9c215.css",
-    "main.js": "/%7Brepository-name%7D/static/js/main.137ff53f.js",
-    "static/media/undraw_horror-movie_9020.png": "/%7Brepository-name%7D/static/media/undraw_horror-movie_9020.e3eb2eeaebeffa4716e5.png",
-    "static/media/undraw_movie-night_pkvp.svg": "/%7Brepository-name%7D/static/media/undraw_movie-night_pkvp.78d69f2bf0044e83be02462c7a42e0c2.svg",
-    "static/media/undraw_online-video_ecqg.svg": "/%7Brepository-name%7D/static/media/undraw_online-video_ecqg.64065f14114cbba75dd941148246f152.svg",
-    "index.html": "/%7Brepository-name%7D/index.html",
-    "main.0fc9c215.css.map": "/%7Brepository-name%7D/static/css/main.0fc9c215.css.map",
-    "main.137ff53f.js.map": "/%7Brepository-name%7D/static/js/main.137ff53f.js.map"
+    "main.css": "/moviecite-react/static/css/main.0fc9c215.css",
+    "main.js": "/moviecite-react/static/js/main.eaa7a835.js",
+    "static/media/undraw_horror-movie_9020.png": "/moviecite-react/static/media/undraw_horror-movie_9020.e3eb2eeaebeffa4716e5.png",
+    "static/media/undraw_movie-night_pkvp.svg": "/moviecite-react/static/media/undraw_movie-night_pkvp.78d69f2bf0044e83be02462c7a42e0c2.svg",
+    "static/media/undraw_online-video_ecqg.svg": "/moviecite-react/static/media/undraw_online-video_ecqg.64065f14114cbba75dd941148246f152.svg",
+    "index.html": "/moviecite-react/index.html",
+    "main.0fc9c215.css.map": "/moviecite-react/static/css/main.0fc9c215.css.map",
+    "main.eaa7a835.js.map": "/moviecite-react/static/js/main.eaa7a835.js.map"
   },
   "entrypoints": [
     "static/css/main.0fc9c215.css",
-    "static/js/main.137ff53f.js"
+    "static/js/main.eaa7a835.js"
   ]
 }
